@@ -1,0 +1,7 @@
+binwalk==2.4.2+2232ff5
+black==23.1.0
+click==8.1.7
+mypy-extensions==1.0.0
+packaging==23.2
+pathspec==0.12.1
+platformdirs==4.1.0
